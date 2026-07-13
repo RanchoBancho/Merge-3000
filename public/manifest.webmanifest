@@ -1,0 +1,19 @@
+{
+  "name": "Merge 3000: Scale Eater",
+  "short_name": "Scale Eater",
+  "description": "Merge everything from a coin to a planet.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050611",
+  "theme_color": "#070a18",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
