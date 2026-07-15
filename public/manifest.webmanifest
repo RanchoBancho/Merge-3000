@@ -1,0 +1,18 @@
+{
+  "name": "Merge 3000: Pressure Lane",
+  "short_name": "Pressure Lane",
+  "description": "Flick, bank and merge objects before the pile breaks through the exit gate.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050611",
+  "theme_color": "#070a18",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
