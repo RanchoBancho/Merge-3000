@@ -1,7 +1,7 @@
 {
-  "name": "Merge 3000: Scale Eater",
-  "short_name": "Scale Eater",
-  "description": "Merge everything from a coin to a planet.",
+  "name": "Merge 3000: Pressure Lane",
+  "short_name": "Pressure Lane",
+  "description": "Flick, bank and merge objects before the pile breaks through the exit gate.",
   "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
@@ -16,4 +16,3 @@
     }
   ]
 }
-

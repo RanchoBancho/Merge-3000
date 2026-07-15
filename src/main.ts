@@ -22,8 +22,10 @@ const game = new Phaser.Game({
   physics: {
     default: 'matter',
     matter: {
-      gravity: { x: 0, y: 1.15 },
-      enableSleeping: true,
+      gravity: { x: 0, y: 0 },
+      enableSleeping: false,
+      positionIterations: 8,
+      velocityIterations: 6,
       debug: false,
     },
   },
@@ -31,4 +33,3 @@ const game = new Phaser.Game({
 });
 
 window.addEventListener('resize', () => game.scale.refresh());
-

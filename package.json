@@ -1,5 +1,5 @@
 {
-  "name": "merge-3000-scale-eater",
+  "name": "merge-3000-pressure-lane",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -17,4 +17,3 @@
     "vite": "7.3.6"
   }
 }
-
